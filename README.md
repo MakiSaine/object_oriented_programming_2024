@@ -53,7 +53,7 @@ Contains the written explanation of the system design and results.
 ---
 
 ### 🧩 SQL Script  
-[🖱️ Open SQL file](./sql/Funn.sql)  
+[🖱️ Open SQL file](./sql/funn.sql) 
 This script creates the database tables and initial data used by the Java program.  
 
 Helper text file for reference:  
