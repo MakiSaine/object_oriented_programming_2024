@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Build artefakter
+target/
+bin/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
