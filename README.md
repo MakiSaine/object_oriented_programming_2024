@@ -60,7 +60,7 @@ The report explains how the program was designed, what the main classes do, and 
 ---
 
 ### SQL Script
-[Open the SQL file](./sql/Funn.sql)  
+[🖱️ Open SQL file](./sql/funn.sql)
 This script creates the database structure and includes example data that the Java program can use.  
 You can open it directly in your SQL environment or view it in GitHub.
 
